@@ -3,8 +3,8 @@ package com.techprimers.kafka.springbootkafkaconsumerexample.model;
 public class User {
 
     private String userName;
+    private String pwd;
     private String userEmail;
-
 
     public User() {
     }
